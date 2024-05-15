@@ -9,6 +9,8 @@ Este é um simples sistema de macro desenvolvido em Python usando Tkinter para a
 - Define as teclas a serem pressionadas como parte da macro.
 - Botões para iniciar e parar a execução da macro.
 
+![Descrição da Imagem](https://cdn.discordapp.com/attachments/1240312197146742817/1240312431801143397/image.png?ex=66461a77&is=6644c8f7&hm=1906ef5a01e8b2f6fcc145a2ae96531563a1b68b2eaf36a7c6900c079eaab3ea&)
+
 ## Requisitos
 
 - Python 3.x
