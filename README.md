@@ -1,6 +1,54 @@
-O macro conta com:
+# Sistema de Macro em Python
 
-Aba para selecionar a janela onde o mesmo ira ficar ativo, caso miminize/ feche a janela o macro entra em sleep;
-Campo para digitar a velocidade que o macro ira funcionar, exemplo: "0.01";
-Campo para digitar as teclas que o macro ira funcionar, exemplo: "F1, F2, F3, etc..";
-Botão para iniciar e parar o macro;
+Este é um simples sistema de macro desenvolvido em Python usando Tkinter para a interface gráfica e PyGetWindow e Keyboard para automação de janelas e entrada de teclado, respectivamente.
+
+## Funcionalidades
+
+- Permite selecionar uma janela/executável para aplicar a macro.
+- Configura a velocidade de execução da macro em segundos.
+- Define as teclas a serem pressionadas como parte da macro.
+- Botões para iniciar e parar a execução da macro.
+
+## Requisitos
+
+- Python 3.x
+- Bibliotecas: tkinter, pygetwindow, keyboard
+
+## Instalação
+
+1. Clone este repositório para o seu sistema local:
+
+    ```
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    ```
+
+2. Instale as dependências necessárias executando:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+## Como Usar
+
+1. Execute o programa `main.py`:
+
+    ```
+    python main.py
+    ```
+
+2. Preencha os campos necessários na interface gráfica:
+   - Selecione a janela/executável desejada.
+   - Defina a velocidade de execução da macro.
+   - Insira as teclas a serem pressionadas, separadas por vírgula (exemplo: `F1,F2,F3`).
+
+3. Clique no botão "Start" para iniciar a macro.
+
+4. Clique no botão "Stop" para interromper a execução da macro.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues com sugestões, dúvidas ou problemas.
+
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
