@@ -43,9 +43,9 @@ Este é um simples sistema de macro desenvolvido em Python usando Tkinter para a
    - Defina a velocidade de execução da macro.
    - Insira as teclas a serem pressionadas, separadas por vírgula (exemplo: `F1,F2,F3`).
 
-3. Clique no botão "Start" para iniciar a macro.
+3. Clique no botão "Iniciar" para iniciar a macro.
 
-4. Clique no botão "Stop" para interromper a execução da macro.
+4. Clique no botão "Parar" para interromper a execução da macro.
 
 ## Contribuição
 
