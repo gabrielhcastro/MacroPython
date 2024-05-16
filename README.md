@@ -4,10 +4,10 @@ Este é um simples sistema de macro desenvolvido em Python usando Tkinter para a
 
 ## Funcionalidades
 
-- Permite selecionar uma janela/executável para aplicar a macro.
-- Configura a velocidade de execução da macro em segundos.
-- Define as teclas a serem pressionadas como parte da macro.
-- Botões para iniciar e parar a execução da macro.
+- Permite selecionar uma janela/executável para utilizar o macro.
+- Configura a velocidade de execução do macro em segundos.
+- Define as teclas a serem pressionadas como parte do macro.
+- Botões para iniciar e parar a execução do macro.
 
 ![Descrição da Imagem](https://cdn.discordapp.com/attachments/1240312197146742817/1240312431801143397/image.png?ex=66461a77&is=6644c8f7&hm=1906ef5a01e8b2f6fcc145a2ae96531563a1b68b2eaf36a7c6900c079eaab3ea&)
 
@@ -40,12 +40,12 @@ Este é um simples sistema de macro desenvolvido em Python usando Tkinter para a
 
 2. Preencha os campos necessários na interface gráfica:
    - Selecione a janela/executável desejada.
-   - Defina a velocidade de execução da macro.
+   - Defina a velocidade de execução do macro.
    - Insira as teclas a serem pressionadas, separadas por vírgula (exemplo: `F1,F2,F3`).
 
-3. Clique no botão "Iniciar" para iniciar a macro.
+3. Clique no botão "Iniciar" para iniciar o macro.
 
-4. Clique no botão "Parar" para interromper a execução da macro.
+4. Clique no botão "Parar" para interromper a execução do macro.
 
 ## Contribuição
 
